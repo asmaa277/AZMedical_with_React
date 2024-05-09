@@ -1,0 +1,79 @@
+{
+  "specialties": [
+    {
+      "id": 1,
+      "name": "children",
+      "description": "Children's department"
+    },
+    {
+      "id": 2,
+      "name": "Subconscious",
+      "description": "Department of Internal Medicine"
+    },
+    {
+      "id": 3,
+      "name": "the heart",
+      "description": "Cardiology department"
+    },
+    {
+      "name": "the eyes",
+      "description": "Department of Ophthalmology",
+      "id": 4
+    },
+    {
+      "name": "Bones",
+      "description": "Orthopedic department",
+      "id": 5
+    }
+  ],
+  "customerCategories": [
+    {
+      "id": 601,
+      "name": "children",
+      "description": "Children's department"
+    },
+    {
+      "id": 602,
+      "name": "Subconscious",
+      "description": "Department of Internal Medicine"
+    },
+    {
+      "id": 603,
+      "name": "the heart",
+      "description": "Cardiology department"
+    },
+    {
+      "id": 604,
+      "name": "the eyes",
+      "description": "Department of Ophthalmology"
+    },
+    {
+      "id": 607,
+      "name": "Bones",
+      "description": "Orthopedic department"
+    }
+  ],
+  "customers": [
+    {
+      "id": 1,
+      "name": "Asmaa",
+      "email": "Asmaa@info.com",
+      "phone": "0906789895",
+      "address": "Cario"
+    },
+    {
+      "id": 2,
+      "name": "",
+      "email": "",
+      "phone": "",
+      "address": ""
+    },
+    {
+      "id": 3,
+      "name": "",
+      "email": "",
+      "phone": "",
+      "address": ""
+    }
+  ]
+}
